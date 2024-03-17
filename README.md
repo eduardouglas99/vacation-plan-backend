@@ -27,9 +27,9 @@ Follow the steps below to set up and start the JSON Server:
 
 1. **Clone the project**
 
-    ```
-    git clone https://github.com/eduardouglas99/vacation-plan-backend
-    ```
+```
+git clone https://github.com/eduardouglas99/vacation-plan-backend
+```
 
 2. **Install Dependencies**
 
